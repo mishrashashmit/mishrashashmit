@@ -48,7 +48,7 @@ I practice DSA consistently and hold a **4-star rating on HackerRank**, alongsid
 
 ## Projects
 
-- **[FraudLens]** — Explainable ML pipeline for credit card fraud detection. EDA + SMOTE class-balancing complete; XGBoost + SHAP/LIME explainability layer in progress. `Python` `XGBoost` `FastAPI` `React`
+- **FraudLens** — Explainable ML pipeline for credit card fraud detection. EDA + SMOTE class-balancing complete; XGBoost + SHAP/LIME explainability layer in progress. `Python` `XGBoost` `FastAPI` `React`
 - **[ResearchMind AI](https://github.com/mishrashashmit/ResearchMind-AI)** — A Retrieval-Augmented Generation (RAG) tool for searching, summarizing, and identifying trends across research papers. `Python` `NLP` `RAG` `LLMs`
 - **[ShopSphere AI](https://github.com/mishrashashmit/ShopSphere-AI)** — Multi-agent e-commerce assistant using ML-based recommendation logic and NLP intent parsing. `Python` `Generative AI` `NLP`
 - **AI Agents (Google x Kaggle 5-Day Intensive)** — Built a currency converter agent and a multi-agent customer support/product catalog system using Gemini and the Agent-to-Agent (A2A) protocol. `Python` `Gemini` `A2A`
