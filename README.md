@@ -16,7 +16,7 @@ I'm currently in my third year of a B.Tech in Computer Science & Artificial Inte
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" height="40" alt="Python, C++, C, JavaScript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" height="40" alt="Python, C++, JavaScript" />
 &nbsp;&nbsp;<code>SQL</code>
 </p>
 
